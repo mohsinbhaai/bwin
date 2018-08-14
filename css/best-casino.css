@@ -1,0 +1,25 @@
+.sec-1 {
+    background-image: url(../images/best-casino/bg.png);
+}
+
+.sec-1 .img-1 {
+    display: block;
+    margin-left: 27%;
+    width: 22%;
+}
+
+.sec-1 .img-2 {
+    display: block;
+    margin-left: 30%;
+    padding-top: 1%;
+    width: 12%;
+}
+
+.sec-1 .img-3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
