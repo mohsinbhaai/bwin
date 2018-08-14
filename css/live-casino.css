@@ -1,0 +1,100 @@
+.sec-1 {
+    background-image: url(../images/live-casino/bg2.png);
+}
+
+.sec-1 .img-1 {
+    display: block;
+    margin-left: 20%;
+    width: 22%;
+}
+
+.sec-1 .img-2 {
+    margin-left: 20%;
+    padding-top: 1%;
+    width: 50%;
+}
+
+.sec-1 .img-3 {
+    padding-top: 21%;
+}
+
+.sec-2 {
+    background-color: black;
+}
+
+.sec-2 .img-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.sec-3 {
+    background-image: url(../images/best-casino/bg2.png);
+    text-align: center;
+    color: white;
+}
+
+.sec-3 h4 {
+    padding-top: 9%;
+    font-weight: 800;
+}
+
+.sec-3 p {
+    text-align: left;
+    margin-left: 16%;
+}
+
+.sec-3 .img-1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.sec-3 .img-2 {
+    width: 10%;
+}
+
+
+@media only screen and (max-width: 960px) {
+
+    .sec-1 .img-1 {
+        width: 62%;
+        padding-bottom: 4%;
+    }
+
+    .sec-1 .img-2 {
+        width: 72%;
+        padding-bottom: 4%;
+    }
+
+    .sec-1 .img-3 {
+        width: 42%;
+        padding-bottom: 4%;
+        margin-top: -30%;
+        margin-left: 30%;
+    }
+
+    .sec-2 .img-1 {
+        width: 60%;
+    }
+
+
+    .sec-3 h4 {
+        padding-left: 15%;
+        text-align: left;
+    }
+
+    .sec-3 .img-3 {
+        width: 90%;
+    }
+
+    .sec-3 .img-1 {
+        width: 80%;
+    }
+
+    .sec-3 .img-2 {
+        width: 40%;
+    }
+}
